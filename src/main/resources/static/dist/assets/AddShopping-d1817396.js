@@ -1,0 +1,1 @@
+import e from"./Message-252c665a.js";import{_ as s,d as n,o as t,e as p}from"./index-aec3a869.js";import"./HttpRequest-7fd341b5.js";const r={name:"AddShopping",components:{Message:e}};function a(c,_,m,d,i,f){const o=n("Message");return t(),p(o)}const $=s(r,[["render",a]]);export{$ as default};

@@ -1,0 +1,7 @@
+server:
+  servlet:
+    context-path: /mark
+  port: 8000
+spring:
+  config:
+    import: config/db.yml
